@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/diya-thabet/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
+| [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
