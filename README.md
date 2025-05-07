@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
