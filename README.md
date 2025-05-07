@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
 | [2128-reverse-prefix-of-word](https://github.com/diya-thabet/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
