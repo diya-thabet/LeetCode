@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diya-thabet/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
