@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/diya-thabet/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diya-thabet/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/diya-thabet/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/diya-thabet/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/diya-thabet/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/diya-thabet/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/diya-thabet/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/diya-thabet/LeetCode/tree/master/0119-pascals-triangle-ii) |
