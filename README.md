@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/diya-thabet/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
