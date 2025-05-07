@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
+| [3379-score-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
