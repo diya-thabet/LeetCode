@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/diya-thabet/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/diya-thabet/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/diya-thabet/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/diya-thabet/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/diya-thabet/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/diya-thabet/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
