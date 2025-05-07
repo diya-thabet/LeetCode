@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
