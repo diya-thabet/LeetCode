@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/diya-thabet/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
@@ -28,7 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/diya-thabet/LeetCode/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/diya-thabet/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/diya-thabet/LeetCode/tree/master/0125-valid-palindrome) |
@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/diya-thabet/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/diya-thabet/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/diya-thabet/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/diya-thabet/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -127,7 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/diya-thabet/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
 | [2128-reverse-prefix-of-word](https://github.com/diya-thabet/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/diya-thabet/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/diya-thabet/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diya-thabet/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
