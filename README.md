@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/diya-thabet/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/diya-thabet/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2102-find-the-middle-index-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Memoization
 |  |
 | ------- |
