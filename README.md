@@ -8,6 +8,7 @@ solved by me
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/diya-thabet/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diya-thabet/LeetCode/tree/master/0069-sqrtx) |
@@ -48,6 +49,7 @@ solved by me
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/diya-thabet/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/diya-thabet/LeetCode/tree/master/0191-number-of-1-bits) |
