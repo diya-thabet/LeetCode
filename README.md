@@ -29,6 +29,7 @@ solved by me
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/diya-thabet/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/diya-thabet/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
