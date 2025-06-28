@@ -41,6 +41,7 @@ solved by me
 | [0151-reverse-words-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
+| [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/diya-thabet/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -175,6 +176,7 @@ solved by me
 | [0001-two-sum](https://github.com/diya-thabet/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
