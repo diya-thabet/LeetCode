@@ -4,15 +4,11 @@
  * @return {Array}
  */
 var chunk = function(arr, size) {
-    res = []
-    
-    for(let i = 0 ; i<arr.length ; i+=size){
-        let dhia = []
-        min = Math.min(size , arr.length - i)
-        for(let j = 0 ; j<min ; j++){
-            dhia.push(arr[i+j])
-        }
-        res.push(dhia)
+    if (size <= 0) return [];
+
+    const res = [];
+    for (let i = 0; i < arr.length; i += size) {
+        res.push(arr.slice(i, i + size));
     }
-    return res; 
+    return res;
 };
