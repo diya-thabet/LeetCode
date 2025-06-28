@@ -114,6 +114,7 @@ solved by me
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/diya-thabet/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ solved by me
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +210,7 @@ solved by me
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/diya-thabet/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Design
 |  |
 | ------- |
