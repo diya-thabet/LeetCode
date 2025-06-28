@@ -258,6 +258,7 @@ solved by me
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/diya-thabet/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/diya-thabet/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Database
 |  |
 | ------- |
