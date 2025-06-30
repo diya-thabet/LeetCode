@@ -18,6 +18,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -41,6 +42,7 @@ solved by me
 | [0151-reverse-words-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
+| [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -64,6 +66,7 @@ solved by me
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/diya-thabet/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
