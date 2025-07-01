@@ -1,15 +1,10 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        map<int, int> m; 
         vector<int> res;
-        /*for(int i : nums){
-            
-             m[i]= 0; 
-        }*/
-        for(int i : nums){
-            if(m[i]>0) res.push_back(i);
-            else m[i]++; 
+        sort(nums.begin(), nums.end()); 
+        for(int i = 0 ; i<nums.size()-1; i++){
+            if(nums[i]==nums[i+1]) res.push_back(nums[i]); 
         }
         return res; 
     }
