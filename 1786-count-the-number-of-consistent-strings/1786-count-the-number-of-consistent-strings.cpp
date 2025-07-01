@@ -25,11 +25,4 @@ public:
         return count;
     }
 };
-//auto init = atexit([]() { ofstream("display_runtime.txt") << "0";});
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
+auto init = atexit([]() { ofstream("display_runtime.txt") << "0";});
