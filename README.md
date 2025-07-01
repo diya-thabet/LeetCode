@@ -111,6 +111,7 @@ solved by me
 | [1127-last-stone-weight](https://github.com/diya-thabet/LeetCode/tree/master/1127-last-stone-weight) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/diya-thabet/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/diya-thabet/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/diya-thabet/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
