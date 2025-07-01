@@ -30,6 +30,7 @@ solved by me
 | [2812-find-the-maximum-achievable-number](https://github.com/diya-thabet/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/diya-thabet/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/diya-thabet/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -55,6 +56,7 @@ solved by me
 | [2406-decode-the-message](https://github.com/diya-thabet/LeetCode/tree/master/2406-decode-the-message) |
 | [3379-score-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/diya-thabet/LeetCode/tree/master/3396-valid-word) |
+| [3567-convert-date-to-binary](https://github.com/diya-thabet/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/diya-thabet/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
