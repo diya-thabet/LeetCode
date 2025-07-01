@@ -1,7 +1,7 @@
 class Solution {
 public:
     string convertDateToBinary(string date) {
-        string res = "", sYear = "", sMonth = "", sDay = ""; 
+        string  sYear = "", sMonth = "", sDay = ""; 
         int t  = 1; 
         
         for(char c : date){
