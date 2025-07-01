@@ -1,19 +1,22 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int m[26]; 
-        memset(m, 0, sizeof(m)); 
-
-        int t = 0; 
-        for(char c : allowed) m[(int)(c-'a')]=true; 
-
-        for(string s : words){
-            bool res = true; 
-            for(char c : s){
-                if(m[(int)(c-'a')]!=true) res = false; 
-            }
-            t = res ? t+1 : t; 
+        int arr[26] = {0};
+        for (char c : allowed) {
+            arr[c - 'a'] = 1;
         }
-        return t; 
+        
+        int count = 0;
+        for (string word : words) {
+            int flag = 1;
+            for (char c : word) {
+                if (arr[c - 'a'] == 0) {
+                    flag = 0;
+                    break;
+                }
+            }
+            count += flag;
+        }
+        return count;
     }
 };
