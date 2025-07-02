@@ -72,6 +72,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/diya-thabet/LeetCode/tree/master/0461-hamming-distance) |
+| [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/diya-thabet/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -80,6 +81,7 @@ solved by me
 | ------- |
 | [0067-add-binary](https://github.com/diya-thabet/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/diya-thabet/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -116,6 +118,7 @@ solved by me
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -155,6 +158,7 @@ solved by me
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/diya-thabet/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -304,6 +308,7 @@ solved by me
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
