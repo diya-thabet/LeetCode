@@ -19,6 +19,7 @@ solved by me
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
+| [0866-rectangle-overlap](https://github.com/diya-thabet/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -332,4 +333,8 @@ solved by me
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/diya-thabet/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
