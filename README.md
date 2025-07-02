@@ -305,12 +305,23 @@ solved by me
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
