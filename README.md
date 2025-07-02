@@ -48,6 +48,7 @@ solved by me
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -113,6 +114,7 @@ solved by me
 | [0724-find-pivot-index](https://github.com/diya-thabet/LeetCode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -201,6 +203,7 @@ solved by me
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
