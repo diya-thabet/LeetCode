@@ -139,6 +139,7 @@ solved by me
 | [2102-find-the-middle-index-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/diya-thabet/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
@@ -311,6 +312,7 @@ solved by me
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
