@@ -26,6 +26,7 @@ solved by me
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
+| [2383-add-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/diya-thabet/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
