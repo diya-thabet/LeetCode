@@ -64,6 +64,7 @@ solved by me
 | [3396-valid-word](https://github.com/diya-thabet/LeetCode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/diya-thabet/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/diya-thabet/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ solved by me
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
