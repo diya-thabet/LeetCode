@@ -1,18 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> largestLocal(vector<vector<int>>& g) {
-        vector<vector<int>> res; 
-        for(int i = 1 ; i<g.size()-1; i++){
-            vector<int> line;
-            for(int j = 1 ; j<g.size()-1; j++){
-                
-                int max_value = std::max({g[i][j],g[i+1][j],g[i][j+1],g[i+1][j+1],g[i-1][j],g[i][j-1],g[i-1][j-1],g[i+1][j-1],g[i-1][j+1]});
-                line.push_back(max_value);
+    vector<vector<int>> largestLocal(vector<vector<int>>& grid) {
+        int n = grid.size();
+        vector<vector<int>> mat(n-2, vector<int>(n - 2, 0));
+        for(int i = 0; i <= n - 3; i ++) {
+            for(int j = 0; j <= n - 3; j ++) {
+                mat[i][j] = maxi(i, j, grid);
             }
-            res.push_back(line);
-            line = {}; 
-
         }
-        return res; 
+        return mat;
+    }
+    int maxi(int m, int n, vector<vector<int>>& grid) {
+        int l = grid[m][n];
+        for(int i = m; i < m + 3; i ++) {
+            for(int j = n; j < n + 3; j ++) {
+                l = max(l, grid[i][j]);
+            }
+        }
+        return l;
     }
 };
