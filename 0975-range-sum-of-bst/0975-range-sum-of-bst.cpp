@@ -17,7 +17,7 @@ public:
         return res; 
     }
 
-    void somme(TreeNode* node,int low, int high , int &res){
+    void somme(TreeNode* node,int &low, int &high , int &res){
         if(node->val <= high && node->val >=low) res += node->val; 
         if(node->left) somme(node->left, low, high, res);
         if(node->right) somme(node->right, low, high, res);
