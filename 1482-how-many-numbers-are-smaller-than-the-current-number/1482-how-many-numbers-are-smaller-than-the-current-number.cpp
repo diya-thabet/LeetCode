@@ -1,24 +1,24 @@
 class Solution {
-public:
+public:// perfect approach
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        int i =0;
-        vector<int> res; 
-        while(i<nums.size()){
-            int left = 0, right = 0;
-            if(i>0){
-                for(int j = i-1; j>=0 ; j--){
-                    if(nums[j]<nums[i]) left++; 
-                }
+        int n =nums.size();
+
+        map<int,int>mp;
+
+        vector<int>nums2 = nums;
+
+        sort(nums2.begin(),nums2.end());
+        for(int i=0;i<nums2.size();i++){
+            if(mp.count(nums2[i]) == 0){
+                mp[nums2[i]] = i;
             }
-            if(i<nums.size()){
-                for(int j = i+1; j<nums.size() ; j++){
-                    if(nums[j]<nums[i]) right++; 
-                }
-            }
-            res.push_back(left + right); 
-            i++;
         }
 
-        return res; 
+        vector<int>result;
+        for(int num : nums){
+            result.push_back(mp[num]);
+        }
+        return result;
     }
 };
+
