@@ -144,6 +144,7 @@ solved by me
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/diya-thabet/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/diya-thabet/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -276,6 +277,7 @@ solved by me
 | [0238-product-of-array-except-self](https://github.com/diya-thabet/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/diya-thabet/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/diya-thabet/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Memoization
 |  |
 | ------- |
