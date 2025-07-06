@@ -340,23 +340,27 @@ solved by me
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
