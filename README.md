@@ -24,6 +24,7 @@ solved by me
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/diya-thabet/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/2383-add-two-integers) |
