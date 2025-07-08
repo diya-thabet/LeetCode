@@ -109,6 +109,7 @@ solved by me
 | [0461-hamming-distance](https://github.com/diya-thabet/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/diya-thabet/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
+| [1054-complement-of-base-10-integer](https://github.com/diya-thabet/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/diya-thabet/LeetCode/tree/master/1839-decode-xored-array) |
