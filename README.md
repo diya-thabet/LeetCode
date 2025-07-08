@@ -161,6 +161,7 @@ solved by me
 | [1603-running-sum-of-1d-array](https://github.com/diya-thabet/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/diya-thabet/LeetCode/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/diya-thabet/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/diya-thabet/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -383,6 +384,7 @@ solved by me
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/diya-thabet/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Tree
