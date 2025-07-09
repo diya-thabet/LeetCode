@@ -201,6 +201,7 @@ solved by me
 | [2292-counting-words-with-a-given-prefix](https://github.com/diya-thabet/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/diya-thabet/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -295,6 +296,7 @@ solved by me
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/diya-thabet/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/diya-thabet/LeetCode/tree/master/2406-decode-the-message) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -347,6 +349,7 @@ solved by me
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/diya-thabet/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/diya-thabet/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diya-thabet/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diya-thabet/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
