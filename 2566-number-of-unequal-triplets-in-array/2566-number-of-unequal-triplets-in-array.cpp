@@ -1,16 +1,23 @@
 class Solution {
 public:
     int unequalTriplets(vector<int>& nums) {
-        int n = 0; 
-        for(int i = 0; i<nums.size()-2; i++){
-            for(int j = i+1; j<nums.size()-1; j++){
-                for(int k = j+1; k<nums.size(); k++){
-                    if(nums[i] != nums[j] && nums[i] != nums[k] && nums[j] != nums[k]){
-                        n++; 
-                    }
-                }
-            }        
+        // Step 1: Count frequency of each number
+        map<int, int> freq;
+        for (int num : nums) {
+            freq[num]++;
         }
-        return n; 
+
+        // Step 2: Calculate unequal triplets
+        int result = 0;
+        int left = 0;
+        int total = nums.size();
+
+        for (auto& [num, count] : freq) {
+            int right = total - left - count;
+            result += left * count * right;
+            left += count;
+        }
+
+        return result;
     }
 };
