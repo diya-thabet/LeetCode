@@ -31,6 +31,7 @@ solved by me
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/diya-thabet/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/diya-thabet/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/diya-thabet/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/diya-thabet/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -130,6 +131,7 @@ solved by me
 | [2048-build-array-from-permutation](https://github.com/diya-thabet/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/diya-thabet/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
