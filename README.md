@@ -88,6 +88,7 @@ solved by me
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/diya-thabet/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/diya-thabet/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/diya-thabet/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/diya-thabet/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/diya-thabet/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/diya-thabet/LeetCode/tree/master/2406-decode-the-message) |
