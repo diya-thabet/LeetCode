@@ -1,19 +1,16 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        
-        vector<int> v; 
-        while(n>0){
-            v.push_back(n%10); 
-            n/=10; 
-        }
-        int maxi = INT_MIN;
-        for (int i = 0; i < v.size(); i++) {
-            for(int j=i+1;j<v.size();j++){
-                  int product=v[i]*v[j];
-                  maxi = max(maxi, product);
+        int a = 0, b = 0;
+        for(;n; n /= 10){
+            int x = n % 10;
+            if(a < x){
+                b = a;
+                a = x;
+            }else if(b < x){
+                b = x;
             }
         }
-        return maxi; 
+        return a  * b;
     }
 };
