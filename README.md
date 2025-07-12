@@ -18,6 +18,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0866-rectangle-overlap](https://github.com/diya-thabet/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
@@ -281,6 +282,7 @@ solved by me
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
