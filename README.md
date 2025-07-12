@@ -16,6 +16,7 @@ solved by me
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/diya-thabet/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -373,6 +374,7 @@ solved by me
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/diya-thabet/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/diya-thabet/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/diya-thabet/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -493,5 +495,6 @@ solved by me
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/diya-thabet/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/diya-thabet/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
