@@ -135,6 +135,7 @@ solved by me
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/diya-thabet/LeetCode/tree/master/1642-water-bottles) |
+| [1708-design-parking-system](https://github.com/diya-thabet/LeetCode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/diya-thabet/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -321,6 +322,7 @@ solved by me
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/diya-thabet/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/diya-thabet/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/diya-thabet/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/diya-thabet/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -373,6 +375,7 @@ solved by me
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
+| [1708-design-parking-system](https://github.com/diya-thabet/LeetCode/tree/master/1708-design-parking-system) |
 ## Brainteaser
 |  |
 | ------- |
