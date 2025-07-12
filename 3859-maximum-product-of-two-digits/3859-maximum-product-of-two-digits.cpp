@@ -2,13 +2,18 @@ class Solution {
 public:
     int maxProduct(int n) {
         
-        vector<int> res; 
+        vector<int> v; 
         while(n>0){
-            res.push_back(n%10); 
+            v.push_back(n%10); 
             n/=10; 
         }
-        sort(res.begin(), res.end()); 
-        int nn = res.size()-1; 
-        return res[nn]*res[nn-1]; 
+        int maxi = INT_MIN;
+        for (int i = 0; i < v.size(); i++) {
+            for(int j=i+1;j<v.size();j++){
+                  int product=v[i]*v[j];
+                  maxi = max(maxi, product);
+            }
+        }
+        return maxi; 
     }
 };
