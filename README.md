@@ -51,6 +51,7 @@ solved by me
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/diya-thabet/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/diya-thabet/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/diya-thabet/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/diya-thabet/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -139,6 +140,7 @@ solved by me
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/diya-thabet/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -497,4 +499,5 @@ solved by me
 | ------- |
 | [0292-nim-game](https://github.com/diya-thabet/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/diya-thabet/LeetCode/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
