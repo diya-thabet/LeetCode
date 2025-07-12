@@ -56,6 +56,7 @@ solved by me
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/diya-thabet/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diya-thabet/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/diya-thabet/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -362,6 +363,7 @@ solved by me
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diya-thabet/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/diya-thabet/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Design
 |  |
 | ------- |
