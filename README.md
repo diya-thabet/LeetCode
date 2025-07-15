@@ -7,6 +7,7 @@ solved by me
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/diya-thabet/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/diya-thabet/LeetCode/tree/master/0066-plus-one) |
