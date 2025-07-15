@@ -1,29 +1,24 @@
 class Solution {
 public:
-    bool isValid(string word) {
-        if (word.size() < 3) return false;
+    bool isValid(string s) {
+        int n = s.length();
+        if (n < 3) return false;
 
-        bool vowel = false, consonant = false;
+        int vowels = 0, consonants = 0;
+        string vowelList = "aeiouAEIOU";
 
-        for (char c : word) {
-            if (!isAlphabet(c) && !isdigit(c)) return false;
-
-            if (isAlphabet(c)) {
-                if (isVowel(c)) vowel = true;
-                else consonant = true;
+        for (char c : s) {
+            if (isalpha(c)) {
+                if (vowelList.find(c) != string::npos) {
+                    vowels++;
+                } else {
+                    consonants++;
+                }
+            } else if (!isdigit(c)) {
+                return false; // invalid character
             }
         }
 
-        return vowel && consonant;
-    }
-
-    bool isAlphabet(char c) {
-        return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
-    }
-
-    bool isVowel(char c) {
-        char lowerChar = tolower(c);
-        return lowerChar == 'a' || lowerChar == 'e' || lowerChar == 'i' ||
-               lowerChar == 'o' || lowerChar == 'u';
+        return vowels >= 1 && consonants >= 1;
     }
 };
