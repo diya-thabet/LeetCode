@@ -121,6 +121,7 @@ solved by me
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/diya-thabet/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/diya-thabet/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/diya-thabet/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
@@ -268,6 +269,7 @@ solved by me
 | [0070-climbing-stairs](https://github.com/diya-thabet/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/diya-thabet/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/diya-thabet/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/diya-thabet/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/diya-thabet/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1236-n-th-tribonacci-number) |
