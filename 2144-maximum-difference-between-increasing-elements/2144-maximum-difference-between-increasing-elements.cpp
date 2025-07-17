@@ -8,8 +8,8 @@ public:
                 res = max(res, nums[j]-nums[i]); 
             }
         }
-        if(res == INT_MIN) return -1; 
-        return res; 
+        
+        return res == INT_MIN ? -1 : res; 
     }
 };
 
