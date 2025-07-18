@@ -44,6 +44,7 @@ solved by me
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/diya-thabet/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/diya-thabet/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/diya-thabet/LeetCode/tree/master/2752-sum-multiples) |
