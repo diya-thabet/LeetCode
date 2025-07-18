@@ -53,6 +53,7 @@ solved by me
 | [2998-count-symmetric-integers](https://github.com/diya-thabet/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/diya-thabet/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/diya-thabet/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/diya-thabet/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/diya-thabet/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -233,6 +234,7 @@ solved by me
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/diya-thabet/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/diya-thabet/LeetCode/tree/master/3321-type-of-triangle) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/diya-thabet/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/diya-thabet/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -389,6 +391,7 @@ solved by me
 | [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diya-thabet/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/diya-thabet/LeetCode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/diya-thabet/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Design
