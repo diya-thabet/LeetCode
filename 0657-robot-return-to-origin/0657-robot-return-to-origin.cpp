@@ -9,6 +9,6 @@ public:
             if(c=='D') j--; 
         }
 
-        return i==0 && j==0; 
+        return i==0 && j==0;
     }
 };
