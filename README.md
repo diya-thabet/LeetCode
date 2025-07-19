@@ -15,6 +15,7 @@ solved by me
 | [0069-sqrtx](https://github.com/diya-thabet/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/diya-thabet/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/diya-thabet/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@ solved by me
 | [0141-linked-list-cycle](https://github.com/diya-thabet/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
@@ -331,6 +333,7 @@ solved by me
 | [0001-two-sum](https://github.com/diya-thabet/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/diya-thabet/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
