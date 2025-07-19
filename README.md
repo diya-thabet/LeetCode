@@ -92,6 +92,7 @@ solved by me
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/diya-thabet/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/diya-thabet/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -200,6 +201,7 @@ solved by me
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/diya-thabet/LeetCode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/diya-thabet/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -341,6 +343,7 @@ solved by me
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/diya-thabet/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-thabet/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -357,6 +360,7 @@ solved by me
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/diya-thabet/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/diya-thabet/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
