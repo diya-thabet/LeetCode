@@ -12,7 +12,6 @@ public:
             }
         }
         for(int i : flowerbed) if(i) maxi++; 
-        int b = maxi - count; 
-        return n<=b; 
+        return n<=maxi - count; 
     }
 };
