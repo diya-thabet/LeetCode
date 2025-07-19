@@ -496,6 +496,7 @@ solved by me
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -508,6 +509,7 @@ solved by me
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -519,6 +521,7 @@ solved by me
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -529,6 +532,7 @@ solved by me
 | ------- |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
