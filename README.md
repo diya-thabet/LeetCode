@@ -194,6 +194,7 @@ solved by me
 | [0334-increasing-triplet-subsequence](https://github.com/diya-thabet/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/diya-thabet/LeetCode/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/diya-thabet/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/diya-thabet/LeetCode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -494,6 +495,7 @@ solved by me
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
