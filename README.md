@@ -97,6 +97,7 @@ solved by me
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/diya-thabet/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/diya-thabet/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/diya-thabet/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/diya-thabet/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/diya-thabet/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
