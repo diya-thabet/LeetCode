@@ -211,6 +211,7 @@ solved by me
 | [1031-add-to-array-form-of-integer](https://github.com/diya-thabet/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/diya-thabet/LeetCode/tree/master/1127-last-stone-weight) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/diya-thabet/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-thabet/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
