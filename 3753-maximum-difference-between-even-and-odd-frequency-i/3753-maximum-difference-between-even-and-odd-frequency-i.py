@@ -3,10 +3,10 @@ class Solution:
         odd = 0
         even = 10**1000
         d= Counter(s)
-        for i in s:
-            if d[i]>odd and d[i]%2==1:
-                odd = d[i]
-            if d[i]<even and d[i]%2==0:
-                even = d[i]
+        for i, v in d.items():
+            if v>odd and v%2==1:
+                odd = v
+            if v<even and v%2==0:
+                even = v
 
         return odd - even
