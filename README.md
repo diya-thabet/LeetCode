@@ -207,6 +207,7 @@ solved by me
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/diya-thabet/LeetCode/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/diya-thabet/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/diya-thabet/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/diya-thabet/LeetCode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
