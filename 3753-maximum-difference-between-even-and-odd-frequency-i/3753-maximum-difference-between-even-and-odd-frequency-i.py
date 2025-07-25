@@ -1,6 +1,6 @@
 class Solution:
     def maxDifference(self, s: str) -> int:
         d = Counter(s)
-        odd = max((v for v in d.values() if v % 2 == 1), default=0)
-        even = min((v for v in d.values() if v % 2 == 0), default=0)
+        odd = max((v for v in d.values() if v % 2 == 1))
+        even = min((v for v in d.values() if v % 2 == 0))
         return odd - even
