@@ -196,6 +196,7 @@ solved by me
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/diya-thabet/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/diya-thabet/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -362,6 +363,7 @@ solved by me
 | [0001-two-sum](https://github.com/diya-thabet/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/diya-thabet/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/diya-thabet/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
@@ -388,6 +390,7 @@ solved by me
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/diya-thabet/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -406,6 +409,7 @@ solved by me
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-thabet/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/diya-thabet/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/diya-thabet/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
 |  |
@@ -438,6 +442,7 @@ solved by me
 | ------- |
 | [0075-sort-colors](https://github.com/diya-thabet/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/diya-thabet/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
