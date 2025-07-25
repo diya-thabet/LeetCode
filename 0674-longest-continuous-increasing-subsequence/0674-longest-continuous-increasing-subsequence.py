@@ -1,15 +1,17 @@
+def find_length_of_LCIS(nums: list[int]) -> int:
+    current_length = 1
+    max_length = 1
+
+    for num1, num2 in pairwise(nums):
+        if num1 < num2:
+            current_length += 1
+            max_length = max(max_length, current_length)
+        else:
+            current_length = 1
+
+    return max_length
+
+
 class Solution:
     def findLengthOfLCIS(self, nums: List[int]) -> int:
-        l=0
-        for i in range(len(nums)):
-            res = [nums[i]]
-            cmp = nums[i]
-            for j in range(i+1, len(nums)):
-                if nums[j]>cmp:
-                    res.append(nums[j])
-                    cmp= nums[j]
-                else :
-                    break
-            l= max(l, len(res))
-        return l
-
+        return find_length_of_LCIS(nums)
