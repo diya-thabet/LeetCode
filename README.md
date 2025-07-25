@@ -202,6 +202,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/diya-thabet/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/diya-thabet/LeetCode/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
@@ -362,6 +363,7 @@ solved by me
 | [0242-valid-anagram](https://github.com/diya-thabet/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
