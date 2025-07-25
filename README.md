@@ -17,6 +17,7 @@ solved by me
 | [0070-climbing-stairs](https://github.com/diya-thabet/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/diya-thabet/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/diya-thabet/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
@@ -195,6 +196,7 @@ solved by me
 | [0162-find-peak-element](https://github.com/diya-thabet/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diya-thabet/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/diya-thabet/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/diya-thabet/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
@@ -403,6 +405,7 @@ solved by me
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/diya-thabet/LeetCode/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/diya-thabet/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -589,6 +592,7 @@ solved by me
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/diya-thabet/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Game Theory
 |  |
