@@ -6,7 +6,7 @@ class Solution:
         for i, v in d.items():
             if v>odd and v%2==1:
                 odd = v
-            if v<even and v%2==0:
+            elif v<even and v%2==0:
                 even = v
 
         return odd - even
