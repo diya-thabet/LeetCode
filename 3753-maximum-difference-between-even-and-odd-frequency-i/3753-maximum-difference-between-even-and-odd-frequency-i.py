@@ -10,4 +10,5 @@ class Solution:
                 odd = d[i]
             if d[i]<even and d[i]%2==0:
                 even = d[i]
+
         return odd - even
