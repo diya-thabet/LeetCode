@@ -129,6 +129,7 @@ solved by me
 | [3396-valid-word](https://github.com/diya-thabet/LeetCode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/diya-thabet/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/diya-thabet/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/diya-thabet/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -371,6 +372,7 @@ solved by me
 | [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/diya-thabet/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -386,6 +388,7 @@ solved by me
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/diya-thabet/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/diya-thabet/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
