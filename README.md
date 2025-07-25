@@ -271,6 +271,7 @@ solved by me
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/diya-thabet/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/diya-thabet/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diya-thabet/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -370,6 +371,7 @@ solved by me
 | [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -416,6 +418,7 @@ solved by me
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/diya-thabet/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/diya-thabet/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/diya-thabet/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
