@@ -1,14 +1,13 @@
 class Solution:
     def maxDifference(self, s: str) -> int:
-        odd = 0
-        even = 10**1000
-        d= {k: 0 for k in s}
-        for i in s:
-            d[i]+=1
-        for i in s:
-            if d[i]>odd and d[i]%2==1:
-                odd = d[i]
-            if d[i]<even and d[i]%2==0:
-                even = d[i]
-
-        return odd - even
+        even_list = []
+        odd_list = []
+        count = Counter(s)
+        for key, val in count.items():
+            if val % 2 == 0:
+                even_list.append(val)
+            else:
+                odd_list.append(val)
+        even_max = min(even_list)
+        odd_max = max(odd_list)
+        return odd_max - even_max
