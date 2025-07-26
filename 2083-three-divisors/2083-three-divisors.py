@@ -1,8 +1,8 @@
 class Solution:
     def isThree(self, n: int) -> bool:
-        c = 2
-        for i in range(2,(n//2)+1):
-            if(n%i==0):
-                c+=1
-            
-        return c==3
+        s = set()
+        for i in range(1, int(n**0.5) + 1):
+            if n % i == 0:
+                s.add(i)
+                s.add(n/i)
+        return len(s) == 3
