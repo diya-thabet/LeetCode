@@ -77,6 +77,7 @@ solved by me
 | [3830-find-closest-person](https://github.com/diya-thabet/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diya-thabet/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/diya-thabet/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/diya-thabet/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -286,6 +287,7 @@ solved by me
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diya-thabet/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/diya-thabet/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
