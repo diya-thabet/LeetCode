@@ -52,6 +52,7 @@ solved by me
 | [2383-add-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/diya-thabet/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/diya-thabet/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/diya-thabet/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/diya-thabet/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -425,6 +426,7 @@ solved by me
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/diya-thabet/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
@@ -611,6 +613,7 @@ solved by me
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/diya-thabet/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Game Theory
 |  |
