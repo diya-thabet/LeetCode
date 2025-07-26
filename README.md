@@ -527,6 +527,7 @@ solved by me
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/diya-thabet/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/diya-thabet/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
@@ -551,6 +552,7 @@ solved by me
 | [0021-merge-two-sorted-lists](https://github.com/diya-thabet/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/diya-thabet/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/diya-thabet/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
