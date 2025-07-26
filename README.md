@@ -161,6 +161,7 @@ solved by me
 | [0338-counting-bits](https://github.com/diya-thabet/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/diya-thabet/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/diya-thabet/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/diya-thabet/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/diya-thabet/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/diya-thabet/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -223,6 +224,7 @@ solved by me
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/diya-thabet/LeetCode/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/diya-thabet/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/diya-thabet/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/diya-thabet/LeetCode/tree/master/0682-baseball-game) |
@@ -387,6 +389,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/diya-thabet/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/diya-thabet/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/diya-thabet/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diya-thabet/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -468,6 +471,7 @@ solved by me
 | [0179-largest-number](https://github.com/diya-thabet/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/diya-thabet/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/diya-thabet/LeetCode/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/diya-thabet/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-thabet/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
