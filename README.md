@@ -50,6 +50,7 @@ solved by me
 | [1950-sign-of-the-product-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/diya-thabet/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/diya-thabet/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/diya-thabet/LeetCode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/diya-thabet/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/diya-thabet/LeetCode/tree/master/2383-add-two-integers) |
@@ -435,6 +436,7 @@ solved by me
 | [0258-add-digits](https://github.com/diya-thabet/LeetCode/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/diya-thabet/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/diya-thabet/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/diya-thabet/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -624,6 +626,7 @@ solved by me
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/diya-thabet/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/diya-thabet/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Game Theory
