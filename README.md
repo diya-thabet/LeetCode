@@ -276,6 +276,7 @@ solved by me
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/diya-thabet/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/diya-thabet/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/diya-thabet/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
