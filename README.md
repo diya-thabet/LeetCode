@@ -187,6 +187,7 @@ solved by me
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/diya-thabet/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/diya-thabet/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/diya-thabet/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -559,6 +560,7 @@ solved by me
 | [0206-reverse-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/diya-thabet/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/diya-thabet/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
