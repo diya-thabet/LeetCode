@@ -3,8 +3,8 @@ class Solution:
         maxi = max(nums)
         c=0
         v=0
-        for i in range(len(nums)):
-            if nums[i]==maxi:
+        for i in nums:
+            if i==maxi:
                 v+=1
             else:
                 v=0
