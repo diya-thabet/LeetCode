@@ -1,22 +1,15 @@
 class Solution:
-    def subarrayBitwiseORs(self, arr: List[int]) -> int:
-        x=0
-        res = set()
-        print(arr)
-        for i in range(len(arr)):
-            res.add(arr[i])
-            x|= arr[i]
-            res.add(x)
-            v=arr[i]
-            for j in range(i, len(arr)):
-                v|= arr[j]  
-                res.add(v)  
+    def subarrayBitwiseORs(self, arr: list[int]) -> int:
+        result_ors = set()
+        
+        current_ors = set()
+
+        for x in arr:
+           
+            next_ors = {x | y for y in current_ors}
+            next_ors.add(x)
             
-            v= arr[i]
-            for j in range(i, -1, -1):
-                v|= arr[j]  
-                res.add(v)  
+            result_ors.update(next_ors)
+            current_ors = next_ors
             
-        print(res)     
-            
-        return len(res)
+        return len(result_ors)
