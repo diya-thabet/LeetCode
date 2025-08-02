@@ -5,7 +5,6 @@
 #         self.left = left
 #         self.right = right
 def dfs(root, l):
-    #while root:
         if root:
             l.append(root.val)
             if(root.right):
