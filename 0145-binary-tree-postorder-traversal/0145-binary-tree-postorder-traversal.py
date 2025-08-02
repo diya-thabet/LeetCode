@@ -6,12 +6,12 @@
 #         self.right = right
 def dfs(root, l):
     if root:
-        l.append(root.val)
-        dfs(root.right, l)
         dfs(root.left, l)
+        dfs(root.right, l)
+        l.append(root.val)
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
        l=[]
        dfs(root, l)
-       return l[::-1]
+       return l
             
