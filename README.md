@@ -357,6 +357,7 @@ solved by me
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya-thabet/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/diya-thabet/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/diya-thabet/LeetCode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -590,6 +591,7 @@ solved by me
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/diya-thabet/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -605,6 +607,7 @@ solved by me
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/diya-thabet/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -618,6 +621,7 @@ solved by me
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/diya-thabet/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
