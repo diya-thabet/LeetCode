@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-l=[]
 def dfs(root, l):
     #while root:
         if not root:
