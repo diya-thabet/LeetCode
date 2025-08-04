@@ -106,6 +106,7 @@ solved by me
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/diya-thabet/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/diya-thabet/LeetCode/tree/master/0504-base-7) |
+| [0541-reverse-string-ii](https://github.com/diya-thabet/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/diya-thabet/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/diya-thabet/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/diya-thabet/LeetCode/tree/master/0742-to-lower-case) |
@@ -333,6 +334,7 @@ solved by me
 | [0202-happy-number](https://github.com/diya-thabet/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/diya-thabet/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/diya-thabet/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/diya-thabet/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diya-thabet/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/diya-thabet/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
