@@ -27,6 +27,7 @@ solved by me
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/diya-thabet/LeetCode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/diya-thabet/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/diya-thabet/LeetCode/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/diya-thabet/LeetCode/tree/master/0866-rectangle-overlap) |
@@ -391,6 +392,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/diya-thabet/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/diya-thabet/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
