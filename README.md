@@ -180,6 +180,7 @@ solved by me
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/diya-thabet/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/diya-thabet/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/diya-thabet/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/diya-thabet/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
@@ -313,6 +314,7 @@ solved by me
 | [3321-type-of-triangle](https://github.com/diya-thabet/LeetCode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/diya-thabet/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/diya-thabet/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/diya-thabet/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/diya-thabet/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/diya-thabet/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -443,6 +445,7 @@ solved by me
 | [2566-number-of-unequal-triplets-in-array](https://github.com/diya-thabet/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/diya-thabet/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/diya-thabet/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/diya-thabet/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/diya-thabet/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
