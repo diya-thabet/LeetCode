@@ -286,6 +286,7 @@ solved by me
 | [1656-count-good-triplets](https://github.com/diya-thabet/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/diya-thabet/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/diya-thabet/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/diya-thabet/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/diya-thabet/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -541,6 +542,7 @@ solved by me
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-thabet/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/diya-thabet/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/diya-thabet/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/diya-thabet/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/diya-thabet/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diya-thabet/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
