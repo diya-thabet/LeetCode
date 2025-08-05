@@ -200,6 +200,7 @@ solved by me
 | [3511-find-the-winning-player-in-coin-game](https://github.com/diya-thabet/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/diya-thabet/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -317,6 +318,7 @@ solved by me
 | [3723-sum-of-good-numbers](https://github.com/diya-thabet/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/diya-thabet/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/diya-thabet/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/diya-thabet/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diya-thabet/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/diya-thabet/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -403,6 +405,7 @@ solved by me
 | [0882-peak-index-in-a-mountain-array](https://github.com/diya-thabet/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diya-thabet/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -713,4 +716,12 @@ solved by me
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/diya-thabet/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
