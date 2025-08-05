@@ -291,6 +291,7 @@ solved by me
 | [1839-decode-xored-array](https://github.com/diya-thabet/LeetCode/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/diya-thabet/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/diya-thabet/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/diya-thabet/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/diya-thabet/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -514,6 +515,7 @@ solved by me
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/diya-thabet/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/diya-thabet/LeetCode/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/diya-thabet/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/diya-thabet/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/diya-thabet/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diya-thabet/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/diya-thabet/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
