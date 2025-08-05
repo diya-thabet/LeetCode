@@ -724,4 +724,8 @@ solved by me
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/diya-thabet/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
