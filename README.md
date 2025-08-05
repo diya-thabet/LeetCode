@@ -650,6 +650,7 @@ solved by me
 | [0783-search-in-a-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/diya-thabet/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/diya-thabet/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -667,6 +668,7 @@ solved by me
 | [0775-n-ary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/diya-thabet/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -683,6 +685,7 @@ solved by me
 | [0783-search-in-a-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/diya-thabet/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/diya-thabet/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/diya-thabet/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -695,6 +698,7 @@ solved by me
 | [0404-sum-of-left-leaves](https://github.com/diya-thabet/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diya-thabet/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1254-deepest-leaves-sum](https://github.com/diya-thabet/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
