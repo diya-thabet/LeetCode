@@ -53,6 +53,7 @@ solved by me
 | [1920-determine-color-of-a-chessboard-square](https://github.com/diya-thabet/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/diya-thabet/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/diya-thabet/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/diya-thabet/LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/diya-thabet/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -181,6 +182,7 @@ solved by me
 | [1610-xor-operation-in-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diya-thabet/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/diya-thabet/LeetCode/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/diya-thabet/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/diya-thabet/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/diya-thabet/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -289,6 +291,7 @@ solved by me
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/diya-thabet/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/diya-thabet/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/diya-thabet/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/diya-thabet/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/diya-thabet/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diya-thabet/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -710,6 +713,7 @@ solved by me
 | ------- |
 | [0204-count-primes](https://github.com/diya-thabet/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/diya-thabet/LeetCode/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/diya-thabet/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/diya-thabet/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/diya-thabet/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -745,4 +749,12 @@ solved by me
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/diya-thabet/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/diya-thabet/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
