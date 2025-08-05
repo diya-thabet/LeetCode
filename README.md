@@ -138,6 +138,7 @@ solved by me
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diya-thabet/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/diya-thabet/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/diya-thabet/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/diya-thabet/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2128-reverse-prefix-of-word](https://github.com/diya-thabet/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diya-thabet/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/diya-thabet/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -517,6 +518,7 @@ solved by me
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/diya-thabet/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/diya-thabet/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/diya-thabet/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/diya-thabet/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diya-thabet/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/diya-thabet/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/diya-thabet/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
