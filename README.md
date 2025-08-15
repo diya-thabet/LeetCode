@@ -25,6 +25,7 @@ solved by me
 | [0292-nim-game](https://github.com/diya-thabet/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/diya-thabet/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/diya-thabet/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/diya-thabet/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diya-thabet/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/diya-thabet/LeetCode/tree/master/0441-arranging-coins) |
@@ -176,6 +177,7 @@ solved by me
 | [0268-missing-number](https://github.com/diya-thabet/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/diya-thabet/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/diya-thabet/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/diya-thabet/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/diya-thabet/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/diya-thabet/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/diya-thabet/LeetCode/tree/master/0645-set-mismatch) |
@@ -603,6 +605,7 @@ solved by me
 | [0206-reverse-linked-list](https://github.com/diya-thabet/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/diya-thabet/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/diya-thabet/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/diya-thabet/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/diya-thabet/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/diya-thabet/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
