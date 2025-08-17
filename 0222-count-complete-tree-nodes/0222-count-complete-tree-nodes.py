@@ -11,5 +11,6 @@ def dodo(root):
         return 1 + dodo(root.left) + dodo(root.right)
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        return dodo(root)
+        if not root:return 0
+        return 1+self.countNodes(root.left)+self.countNodes(root.right)
         
