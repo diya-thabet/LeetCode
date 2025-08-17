@@ -4,11 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-def dodo(root):
-    if not root:
-        return 0
-    else:
-        return 1 + dodo(root.left) + dodo(root.right)
+
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:return 0
