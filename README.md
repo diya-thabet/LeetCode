@@ -166,6 +166,7 @@ solved by me
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/diya-thabet/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/diya-thabet/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3893-generate-tag-for-video-caption](https://github.com/diya-thabet/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +224,7 @@ solved by me
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/diya-thabet/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/diya-thabet/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/diya-thabet/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Array
 |  |
 | ------- |
