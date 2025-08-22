@@ -340,6 +340,7 @@ solved by me
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/diya-thabet/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/diya-thabet/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/diya-thabet/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/diya-thabet/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diya-thabet/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/diya-thabet/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/diya-thabet/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -652,6 +653,7 @@ solved by me
 | [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/diya-thabet/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/diya-thabet/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Tree
 |  |
 | ------- |
