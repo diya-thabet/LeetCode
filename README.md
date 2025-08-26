@@ -335,6 +335,7 @@ solved by me
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/diya-thabet/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/diya-thabet/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/diya-thabet/LeetCode/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/diya-thabet/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/diya-thabet/LeetCode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/diya-thabet/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/diya-thabet/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
