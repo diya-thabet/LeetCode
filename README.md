@@ -239,6 +239,7 @@ solved by me
 | [0066-plus-one](https://github.com/diya-thabet/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/diya-thabet/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/diya-thabet/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/diya-thabet/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-thabet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -504,6 +505,7 @@ solved by me
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-thabet/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/diya-thabet/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/diya-thabet/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/diya-thabet/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
@@ -661,6 +663,7 @@ solved by me
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/diya-thabet/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -698,6 +701,7 @@ solved by me
 | [0094-binary-tree-inorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/diya-thabet/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diya-thabet/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/diya-thabet/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diya-thabet/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -725,6 +729,7 @@ solved by me
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diya-thabet/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/diya-thabet/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/diya-thabet/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
