@@ -280,6 +280,7 @@ solved by me
 | [1127-last-stone-weight](https://github.com/diya-thabet/LeetCode/tree/master/1127-last-stone-weight) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/diya-thabet/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diya-thabet/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1372-check-if-it-is-a-good-array](https://github.com/diya-thabet/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/diya-thabet/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diya-thabet/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -450,6 +451,7 @@ solved by me
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-thabet/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/diya-thabet/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/diya-thabet/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diya-thabet/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/diya-thabet/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diya-thabet/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/diya-thabet/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -664,6 +666,7 @@ solved by me
 | [0661-image-smoother](https://github.com/diya-thabet/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/diya-thabet/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/diya-thabet/LeetCode/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/diya-thabet/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/diya-thabet/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/diya-thabet/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/diya-thabet/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
